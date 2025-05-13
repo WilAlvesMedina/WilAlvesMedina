@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Meu nome é Wilton Alves Medina. Tenho 24 anos, moro no estado de Goiás, Brasil. Sou designer e desenvolvedor front-end.<br><br>Estudo design há 10 anos e front-end há 3 anos.<br><br>Sou apaixonado por design gráfico e afins. Desde o começo sempre estudei e usei o Adobe Photoshop, porém a pouco tempo conheci o front-end, então decidi me aprofundar mais no assunto e estou adorando estudar sobre e evoluir nessa área.
+Meu nome é Wilton. Tenho 24 anos, moro no estado de Goiás, Brasil. Sou designer e desenvolvedor front-end.<br><br>Estudo design há 10 anos e front-end há 3 anos.<br><br>Sou apaixonado por design gráfico e afins. Desde o começo sempre estudei e usei o Adobe Photoshop, porém a pouco tempo conheci o front-end, então decidi me aprofundar mais no assunto e estou adorando estudar sobre e evoluir nessa área.
 
 De momento estou a tirar licenciatura em análise e desenvolvimento de sistemas de forma a melhorar a minha performance em front-end, área em que pretendo exercer.
 
